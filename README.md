@@ -74,8 +74,8 @@ Hospitality businesses often struggle to track and optimize performance due to s
 ![Main Dashboard](Screenshots/dashboard.png)
 
 ### Additional Views
-![View 1](Screenshots/Screenshot(93).png)
-![View 2](Screenshots/Screenshot(94).png)
+![View 1](Screenshots/Screenshot1.png)
+![View 2](Screenshots/Screenshot2.png)
 
 
 
